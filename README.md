@@ -1,16 +1,27 @@
-## Hi there 👋
+### Olá, sou André Martins ✍️
 
-<!--
-**andre7184/andre7184** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/-linkedin-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-m-brandao/) [![Instagram](https://img.shields.io/badge/-instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/andre_amb7184/) [![Youtube](https://img.shields.io/badge/-youtube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@andrebrandao9348)
 
-Here are some ideas to get you started:
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre7184&layout=compact)
+
+## Tecnologias que utilizo
+
+<div style="display: inline-block;">
+<img alt='HTML5' src="https://img.shields.io/badge/-HTML5-FF0000?logo=html5&logoColor=white">
+<img alt='CSS3' src="https://img.shields.io/badge/-CSS3-0077B5?logo=css3&logoColor=white">
+<img alt='JavaScript' src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white">
+<img alt='PHP' src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white">
+<img alt='python' src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white">
+<img alt='Java' src="https://img.shields.io/badge/-Java-F80000?logo=java&logoColor=white">
+<img alt='Flutter' src="https://img.shields.io/badge/-Flutter-000000?logo=flutter&logoColor=white">
+<img alt='Dart' src="https://img.shields.io/badge/-Dart-00B4AB?logo=dart&logoColor=white">
+<img alt='Git' src="https://img.shields.io/badge/-Git-000000?logo=git&logoColor=white">
+<img alt='mySQL' src="https://img.shields.io/badge/-MySQL-00758A?logo=mysql&logoColor=white">
+<img alt='docker' src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white">
+<img alt='spring' src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white">
+<img alt='nosql' src="https://img.shields.io/badge/-NoSQL-00758A?logo=nosql&logoColor=white">
+</div>
+
+
