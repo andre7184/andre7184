@@ -4,7 +4,7 @@
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre7184&layout=compact)
+![Top Langs](https://andre7184.github.io/gerando_info_github/languages_chart.png)
 
 ## Tecnologias que utilizo
 
